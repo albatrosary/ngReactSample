@@ -1,3 +1,4 @@
+/* global angular, React */
 var app = angular.module( 'app', ['react'] );
 
 app.controller( 'mainCtrl', function( $scope ) {
